@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>venusaur.png</file>
+        <file>alakazam.png</file>
+        <file>charizard.png</file>
+        <file>blastoise.png</file>
+        <file>chansey.png</file>
+        <file>dragonite.png</file>
+        <file>gengar.png</file>
+        <file>images.qrc</file>
+        <file>raichu.png</file>
+        <file>tangela.png</file>
+        <file>gyarados.png</file>
+        <file>mr-mime.png</file>
+        <file>nidoking.gif</file>
+    </qresource>
+</RCC>
